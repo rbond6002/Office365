@@ -1,0 +1,6 @@
+<Configuration>
+ <Info Description="O365 Enterprise Removal" />
+ <Remove All="TRUE">
+ </Remove>
+ <Display Level="FULL" AcceptEULA="TRUE" />
+</Configuration>
