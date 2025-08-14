@@ -1,0 +1,12 @@
+<Configuration>
+<Add Version="MatchInstalled">
+<Product ID="Publisher">
+<Language ID="MatchOS"/>
+</Product>
+</Add>
+<Property Name="SharedComputerLicensing" Value="0"/>
+<Property Name="FORCEAPPSHUTDOWN" Value="TRUE"/>
+<Property Name="DeviceBasedLicensing" Value="1"/>
+<Property Name="SCLCacheOverride" Value="0"/>
+<Updates Enabled="TRUE"/>
+</Configuration>
